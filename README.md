@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-bootloaders/brand/main/social/go-bootloaders.png" alt="go-bootloaders/systemd-boot" width="720"></p>
+
 # systemd-boot
 
 [![ci](https://github.com/go-bootloaders/systemd-boot/actions/workflows/ci.yml/badge.svg)](https://github.com/go-bootloaders/systemd-boot/actions/workflows/ci.yml)
