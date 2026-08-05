@@ -126,11 +126,9 @@ toolchain.
 GOWORK=off go build ./...
 ```
 
-`go-filesystems/interface` is consumed via a sibling `replace => ../interface`
-(its drivers reference it the same way, and that directive does not survive
-transitive importing). CI checks the repo out flat next to this module; for
-local development clone `go-filesystems/interface` next to a `../interface`
-path. All other dependencies resolve from the public module proxy.
+All dependencies, including `go-filesystems/interface`, resolve from the
+public Go module proxy by pseudo-version — no `replace => ../sibling`, no
+local sibling clone, and no vendoring required.
 
 Validated on all six 64-bit Go architectures
 (amd64 / arm64 / riscv64 / loong64 / ppc64le / s390x, the last big-endian).
