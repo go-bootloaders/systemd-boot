@@ -6,6 +6,8 @@ github.com/go-filesystems/fat32 v0.0.0-20260622110031-1d68bab25618 h1:1q3c+HJXQA
 github.com/go-filesystems/fat32 v0.0.0-20260622110031-1d68bab25618/go.mod h1:rOT8cxm/YbwLTforZ/bd5QIiw0Ke+nZLboBH9Xa1U2g=
 github.com/go-filesystems/interface v0.0.0-20260622072638-0b01d4fb163f h1:5HnRecjgsND+ESeX7EgGNvYL5ofL+bzJTqcvcSGo1BI=
 github.com/go-filesystems/interface v0.0.0-20260622072638-0b01d4fb163f/go.mod h1:9WZHAmuKzDWHFtncQuJ3rJYWnAcgX3VsupSqYITgftE=
+github.com/go-filesystems/interface v0.1.0 h1:Rec5051uFN55CTlZyF/3BAqhKB/HGWPKZRqW6Speb+k=
+github.com/go-filesystems/interface v0.1.0/go.mod h1:9MDfHNNKg9cW1qBa3hmURQj4jiWIdTo9Xpgdt8ZzvV8=
 github.com/go-filesystems/uefi v0.0.0-20260622110039-8bad894e467d h1:nQ+nQXFdra2r6eMuI0zxr9PvYOGXgmycTOTB5T9LWas=
 github.com/go-filesystems/uefi v0.0.0-20260622110039-8bad894e467d/go.mod h1:T4WSiZsRTn8KuQixDMRZchs/BIYEBuYU7KhMLkp2r/4=
 github.com/go-tpm2/attest v0.3.0 h1:0Fv441TL02P65BZyLklu384yhNsmuXhgw5nPd9Z+bYA=
