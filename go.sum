@@ -2,6 +2,8 @@ github.com/go-filesystems/detect v0.0.0-20260622114748-623b36231685 h1:nkzNjHTzx
 github.com/go-filesystems/detect v0.0.0-20260622114748-623b36231685/go.mod h1:OCGE1O8l2Z41PODXWkuJOin83ooqHWh439jSpOGWb/Q=
 github.com/go-filesystems/detect/fat32reg v0.0.0-20260622114748-623b36231685 h1:QVsZalhjok0Hvwl8JKr7qwA7Dsb33LUb3iMs5WRhC9I=
 github.com/go-filesystems/detect/fat32reg v0.0.0-20260622114748-623b36231685/go.mod h1:OwExJSTfw5Qm1/dvFFbQIZLeuE1GKQLJTHr+f/Xz+HM=
+github.com/go-filesystems/detect/fat32reg v0.0.0-20260805205105-f4d6b850ab1e h1:UAoHG7tGuUzCOANllbalOgvaN/UscabR+zngeszcMKE=
+github.com/go-filesystems/detect/fat32reg v0.0.0-20260805205105-f4d6b850ab1e/go.mod h1:OwExJSTfw5Qm1/dvFFbQIZLeuE1GKQLJTHr+f/Xz+HM=
 github.com/go-filesystems/fat32 v0.0.0-20260622110031-1d68bab25618 h1:1q3c+HJXQAuAfNstfEYXzpKML3UB90hM5keebG8Zue4=
 github.com/go-filesystems/fat32 v0.0.0-20260622110031-1d68bab25618/go.mod h1:rOT8cxm/YbwLTforZ/bd5QIiw0Ke+nZLboBH9Xa1U2g=
 github.com/go-filesystems/interface v0.0.0-20260622072638-0b01d4fb163f h1:5HnRecjgsND+ESeX7EgGNvYL5ofL+bzJTqcvcSGo1BI=
