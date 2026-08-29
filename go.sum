@@ -1,5 +1,7 @@
 github.com/go-filesystems/detect v0.0.0-20260622114748-623b36231685 h1:nkzNjHTzx3CUrfE3DNIIxNXdAwn+KvU28PS7KhNiBP8=
 github.com/go-filesystems/detect v0.0.0-20260622114748-623b36231685/go.mod h1:OCGE1O8l2Z41PODXWkuJOin83ooqHWh439jSpOGWb/Q=
+github.com/go-filesystems/detect v0.1.0 h1:DCiR5lLKFJ/kon8wKs1ueG1hX27wJaIHqym+Ai0Y/pU=
+github.com/go-filesystems/detect v0.1.0/go.mod h1:OCGE1O8l2Z41PODXWkuJOin83ooqHWh439jSpOGWb/Q=
 github.com/go-filesystems/detect/fat32reg v0.0.0-20260622114748-623b36231685 h1:QVsZalhjok0Hvwl8JKr7qwA7Dsb33LUb3iMs5WRhC9I=
 github.com/go-filesystems/detect/fat32reg v0.0.0-20260622114748-623b36231685/go.mod h1:OwExJSTfw5Qm1/dvFFbQIZLeuE1GKQLJTHr+f/Xz+HM=
 github.com/go-filesystems/fat32 v0.0.0-20260622110031-1d68bab25618 h1:1q3c+HJXQAuAfNstfEYXzpKML3UB90hM5keebG8Zue4=
