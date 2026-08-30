@@ -18,5 +18,7 @@ github.com/go-tpm2/tpm2 v0.6.0 h1:nj2Y0lQ/E4arJE5u61sZf2hBnKLeMO+xiCIBSG341y0=
 github.com/go-tpm2/tpm2 v0.6.0/go.mod h1:ovPqrMNpQ2cBxLTb7XOoOaFr40wPYutTQgQvv8ko4Gk=
 github.com/go-volumes/gpt v0.0.0-20260622100756-3721db1fbd05 h1:lIMMsOk/zC2LwsC99TyDLTcAa8+KHknnP3b6zGpM9+0=
 github.com/go-volumes/gpt v0.0.0-20260622100756-3721db1fbd05/go.mod h1:eBAzPkLd8zHkg3WiYGk70M4g6PYY8S5K4JP+kEMs0mw=
+github.com/go-volumes/gpt v0.0.0-20260806060839-7211933d4c65 h1:BrR4egcFY/hwxDm5lxJeo3B+81gyfg3cPEc0fBCqMFQ=
+github.com/go-volumes/gpt v0.0.0-20260806060839-7211933d4c65/go.mod h1:eBAzPkLd8zHkg3WiYGk70M4g6PYY8S5K4JP+kEMs0mw=
 github.com/go-volumes/safeio v0.0.0-20260622072324-7f8eb19f6f8c h1:rOwNQiP0VPnyUcRjiVq9QTOCJkN9heon0325hZdFLaQ=
 github.com/go-volumes/safeio v0.0.0-20260622072324-7f8eb19f6f8c/go.mod h1:QQdGwEUmPSdzD+OPq+ZcKso9ljssqgBXNk0/9z7moho=
