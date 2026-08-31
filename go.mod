@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-filesystems/detect v0.1.0
-	github.com/go-filesystems/detect/fat32reg v0.0.0-20260830075657-d6af36692ef3
+	github.com/go-filesystems/detect/fat32reg v0.0.0-20260830212401-3a77780fd6a6
 	github.com/go-filesystems/fat32 v0.3.0
 	github.com/go-filesystems/interface v0.3.0
 	github.com/go-filesystems/uefi v0.1.0
