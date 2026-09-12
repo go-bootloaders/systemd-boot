@@ -10,7 +10,7 @@ require (
 	github.com/go-filesystems/uefi v0.1.0
 	github.com/go-tpm2/attest v0.3.0
 	github.com/go-tpm2/common v0.1.0
-	github.com/go-volumes/gpt v0.0.0-20260831115417-b3069a3ac03a
+	github.com/go-volumes/gpt v0.2.0
 	github.com/go-volumes/safeio v0.0.0-20260831125406-d8f54b2890d4
 )
 
