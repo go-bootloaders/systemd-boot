@@ -14,4 +14,4 @@ require (
 	github.com/go-volumes/safeio v0.0.0-20260831125406-d8f54b2890d4
 )
 
-require github.com/go-tpm2/tpm2 v0.6.0
+require github.com/go-tpm2/tpm2 v0.7.0
