@@ -3,9 +3,9 @@ module github.com/go-bootloaders/systemd-boot
 go 1.27.1
 
 require (
-	github.com/go-filesystems/detect v0.5.1
-	github.com/go-filesystems/detect/fat32reg v0.0.0-20261106212957-8d709d04e7fc
-	github.com/go-filesystems/fat32 v0.12.0
+	github.com/go-filesystems/detect v0.6.0
+	github.com/go-filesystems/detect/fat32reg v0.0.0-20261113215811-9d4f346162ab
+	github.com/go-filesystems/fat32 v0.13.0
 	github.com/go-filesystems/interface v0.6.0
 	github.com/go-filesystems/uefi v0.4.0
 	github.com/go-tpm2/attest v0.5.0
